@@ -33,15 +33,6 @@ Before using this script, ensure you have the following prerequisites:
 pip install subprocess
 pip install webbrowser
 
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
 ## Usage
 The script accepts different subcommands to perform specific actions on WordPress sites. The available subcommands are:
 ```bash
@@ -80,7 +71,3 @@ python wordpress_site_manager.py disable my_wordpress_site
 python wordpress_site_manager.py delete my_wordpress_site
 ```
 
-
-## Contributing
-
-Please make sure to update tests as appropriate.
